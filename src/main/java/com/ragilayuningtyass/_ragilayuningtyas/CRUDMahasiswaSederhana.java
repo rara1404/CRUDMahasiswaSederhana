@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package crudmahasiswasederhana.na;
+package com.ragilayuningtyass._ragilayuningtyas;
 
 import crudmahasiswasederhana.views.MahasiswaFrame;
 import javax.swing.SwingUtilities;
